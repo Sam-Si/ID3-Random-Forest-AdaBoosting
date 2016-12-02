@@ -36,9 +36,11 @@ Comparision
 * ID3 Decision Trees
   * Accuracy: 78 ~ 79 %
   * Running Time: 1.8808s
+  
 * Random Forest Algorithm:
   * Accuracy: 81 ~ 82 %
   * Running Time: 34.383s
+  
 * Adaptive Boosting:
   * Accuracy: 81 ~ 82 % on average
   * Running Time: 49.409s [for 4500 samples]
