@@ -1,5 +1,17 @@
 # ID3-Random-Forest-AdaBoosting
 
+## ID3
+
+In decision tree learning, ID3 (Iterative Dichotomiser 3) is an algorithm invented by Ross Quinlan used to generate a decision tree   from a dataset. ID3 is the precursor to the C4.5 algorithm, and is typically used in the machine learning and natural language processing domains.
+
+## Random Forest
+
+Random forests or random decision forests are an ensemble learning method for classification, regression and other tasks, that operate by constructing a multitude of decision trees at training time and outputting the class that is the mode of the classes (classification) or mean prediction (regression)
+
+## AdaBoosting
+
+AdaBoost, short for "Adaptive Boosting", is a machine learning meta-algorithm formulated by Yoav Freund and Robert Schapire who won the Gödel Prize in 2003 for their work. It can be used in conjunction with many other types of learning algorithms to improve their performance.
+
 ## Pre-Processing
 
 * The data file contains the values of the attributes, seperated by a ’,’. As such, we use a
