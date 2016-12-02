@@ -45,6 +45,8 @@ list of the values, and all those greater than the median take a value of 1 whil
 than the median take a value of 0.
 Comparision
 
+### RESULTS
+
 * ID3 Decision Trees
   * Accuracy: 78 ~ 79 %
   * Running Time: 1.8808s
